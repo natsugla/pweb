@@ -1,0 +1,40 @@
+.acima {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 12px;
+
+}
+
+.centro {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.google {
+    width: 300px;
+}
+
+form {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.input-bottom {
+    display: flex;
+    gap: 15px;
+
+}
+
+
+.abaixo {
+    background-color: brown;
+
+}
